@@ -18,7 +18,7 @@
 
 ## dl&dd
  * dl 설명형 목록의 부모
-  > dd 설명형 목록의 item  
+ * dd 설명형 목록의 item  
  * strong중요성을 강조
 * b텍스트와 구별할때
 * em강조
